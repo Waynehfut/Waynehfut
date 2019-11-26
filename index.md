@@ -1,1 +1,1 @@
-Moved to the ![New blog](https://blog.ishuwan.com)
+Moved to the [New blog](https://blog.ishuwan.com)
