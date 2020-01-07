@@ -1,6 +1,6 @@
 ## Welcome to Hao Wang's Homepage
 
-I started my Ph.D. study from 2016 at the Hefei University of Technology under the supervision of Prof. Shanlin Yang. Now, I work as visiting scholar at University of Pittsburgh under the supervision of Prof. Youtao Zhang. Prior to that, I received my B.S. degree of Software Engineering in 2016 from Hefei University of Technology in China. 
+
 
 ### News
 
