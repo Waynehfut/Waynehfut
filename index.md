@@ -1,10 +1,8 @@
 ## Welcome to Hao Wang's Homepage
 
-
-
 ### News
 
-- `2019/05/03` Received funding from the National Scholarship Council.
+- `2019/08/31` Working as visiting scholar in University of Pittsburgh.
 
 ### Research
 
