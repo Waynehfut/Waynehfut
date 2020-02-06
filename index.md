@@ -12,7 +12,6 @@
 
 ### Paper 
 
-
 1. "Wang, Hao; Ding, Shuai; Wu, Desheng; Zhang, Youtao; Yang, Shanlin; ",Smart connected electronic gastroscope system for gastric cancer screening using multi-column convolutional neural networks,International Journal of Production Research,1-12,2018,Taylor & Francis
   
 2. "Zhou, Tianwei; Ding, Shuai; Fan, Wenjuan; Wang, Hao; ",An improved public goods game model with reputation effect on the spatial lattices,"Chaos, Solitons & Fractals",93,130-135,2016,Pergamon
@@ -22,7 +21,6 @@
 4. "Ding, Shuai, Ling Li, Zhenmin Li, Hao Wang, and Yanchun Zhang; ", Smart Electronic Gastroscope System Using a Cloud–Edge Collaborative Framework, Future Generation Computer Systems, 395–407, 100, 2019, Springer
 
 5. "Cai, Qiong; Wang, Hao; Li, Zhenmin; Liu, Xiao; ",A Survey on Multimodal Data-Driven Smart Healthcare Systems: Approaches and Applications,IEEE Access,7,,133583-133599,2019,IEEE
-
 
 ### Patent
 
