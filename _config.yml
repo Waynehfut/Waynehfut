@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Hao Wang
 description: Welcome to Hao Wang's Homepage
-logo: /assets/img/me.jpg
+# logo: /assets/img/me.jpg
 description: PhD Student <br> Hefei University of Technology. 
 show_downloads: false
