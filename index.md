@@ -8,31 +8,36 @@
 ### Bio
 
 - 2019.09-: Visiting Scholar at Computer Science Department, University of Pittsburhg;
-- 2016.09-2021.06: PhD student at School of Management, Hefei University of Technology;
+- 2016.09-2021.06: Ph.D. student at School of Management, Hefei University of Technology;
 - 2012.09-2016.06: Undergraduate student at School of Software, Hefei University of Technology;
 
 ### Repo
 
 None
 
-### Research
+### Research Topic
 
 - Medical Imaging
-- Surgical Vision
-- Scheduling optimization
+- Surgical data science
+- Cloud service recommendation:
 
 ### Paper 
 
+1. "Hao Wang, Shuai Ding, Yeqing Li, Xiaojian Li, Youtao Zhang", Hierarchical Physician Recommendation via Diversity-enhanced Matrix Factorization, ACM Transactions on Knowledge Discovery from Data, Accepted.
 
-1. "Wang, Hao; Ding, Shuai; Wu, Desheng; Zhang, Youtao; Yang, Shanlin; ",Smart connected electronic gastroscope system for gastric cancer screening using multi-column convolutional neural networks,International Journal of Production Research,1-12,2018,Taylor & Francis
-
-2. "Hao Wang, Shuai Ding, Yeqing Li, Xiaojian Li, Youtao Zhang", Hierarchical Physician Recommendation via Diversity-enhanced Matrix Factorization, ACM Transactions on Knowledge Discovery from Data, Accepted.
+2. "Wang, Hao; Ding, Shuai; Wu, Desheng; Zhang, Youtao; Yang, Shanlin; ",Smart connected electronic gastroscope system for gastric cancer screening using multi-column convolutional neural networks,International Journal of Production Research,1-12,2018,Taylor & Francis
   
-2. "Zhou, Tianwei; Ding, Shuai; Fan, Wenjuan; Wang, Hao; ",An improved public goods game model with reputation effect on the spatial lattices,"Chaos, Solitons & Fractals",93,130-135,2016,Pergamon
+3. "Zhou, Tianwei; Ding, Shuai; Fan, Wenjuan; Wang, Hao; ",An improved public goods game model with reputation effect on the spatial lattices,"Chaos, Solitons & Fractals",93,130-135,2016,Pergamon
 
-3. "Yue, Zijie; Ding, Shuai; Zhao, Weidong; Wang, Hao; Ma, Jie; Zhang, Youtao; Zhang, Yanchun; ",Automatic CIN grades prediction of sequential cervigram image using LSTM with multistate CNN features,IEEE journal of biomedical and health informatics,2019,IEEE
+4. "Yue, Zijie; Ding, Shuai; Zhao, Weidong; Wang, Hao; Ma, Jie; Zhang, Youtao; Zhang, Yanchun; ",Automatic CIN grades prediction of sequential cervigram image using LSTM with multistate CNN features,IEEE journal of biomedical and health informatics,2019,IEEE
 
-4. "Cai, Qiong; Wang, Hao; Li, Zhenmin; Liu, Xiao; ",A Survey on Multimodal Data-Driven Smart Healthcare Systems: Approaches and Applications,IEEE Access,7,,133583-133599,2019,IEEE
+5. "Cai, Qiong; Wang, Hao; Li, Zhenmin; Liu, Xiao; ",A Survey on Multimodal Data-Driven Smart Healthcare Systems: Approaches and Applications,IEEE Access,7,,133583-133599,2019,IEEE
+
+### Reviewer for
+
+ACM Transactions on Knowledge Discovery from Data.
+International Journal of Production Research.
+Physica A: Statistical Mechanics and its Applications.
 
 
 ### Patent
