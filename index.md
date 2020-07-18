@@ -35,9 +35,9 @@ None
 
 ### Reviewer for
 
-ACM Transactions on Knowledge Discovery from Data.
-International Journal of Production Research.
-Physica A: Statistical Mechanics and its Applications.
+- ACM Transactions on Knowledge Discovery from Data.
+- International Journal of Production Research.
+- Physica A: Statistical Mechanics and its Applications.
 
 
 ### Patent
