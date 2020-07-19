@@ -2,7 +2,7 @@
 
 ### News
 
-- `2020/07/17` One paper accepted by ACM Transactions on Knowledge Discovery from Data.
+- `2020/07/17` One paper accepted by ACM TKDD.
 - `2019/05/03` Received funding from the National Scholarship Council.
 
 ### Bio
@@ -23,15 +23,15 @@ None
 
 ### Paper 
 
-1. "Hao Wang, Shuai Ding, Yeqing Li, Xiaojian Li, Youtao Zhang", Hierarchical Physician Recommendation via Diversity-enhanced Matrix Factorization, ACM Transactions on Knowledge Discovery from Data, Accepted.
+1. Hao Wang*, Shuai Ding*, Yeqing Li, Xiaojian Li, Youtao Zhang, "Hierarchical Physician Recommendation via Diversity-enhanced Matrix Factorization", ACM Transactions on Knowledge Discovery from Data, Accepted. (*: The first two authors contributed equally to this paper)
 
-2. "Wang, Hao; Ding, Shuai; Wu, Desheng; Zhang, Youtao; Yang, Shanlin; ",Smart connected electronic gastroscope system for gastric cancer screening using multi-column convolutional neural networks,International Journal of Production Research,1-12,2018,Taylor & Francis
+2. Hao Wang, Shuai Ding, Desheng Wu, Youtao Zhang and Shanlin Yang. “Smart connected electronic gastroscope system for gastric cancer screening using multi-column convolutional neural networks.” International Journal of Production Research 57 (2019): 6795 - 6806.
   
-3. "Zhou, Tianwei; Ding, Shuai; Fan, Wenjuan; Wang, Hao; ",An improved public goods game model with reputation effect on the spatial lattices,"Chaos, Solitons & Fractals",93,130-135,2016,Pergamon
+3. Tianwei Zhou, Shuai Ding, Wenjuan Fan and Hao Wang. “An improved public goods game model with reputation effect on the spatial lattices.” Chaos Solitons & Fractals 93 (2016): 130-135.
 
-4. "Yue, Zijie; Ding, Shuai; Zhao, Weidong; Wang, Hao; Ma, Jie; Zhang, Youtao; Zhang, Yanchun; ",Automatic CIN grades prediction of sequential cervigram image using LSTM with multistate CNN features,IEEE journal of biomedical and health informatics,2019,IEEE
+4. Zijie Yue, Shuai Ding, Weidong Zhao, Hao Wang, Jie Ma, Youtao Zhang and Yanchun Zhang. “Automatic CIN Grades Prediction of Sequential Cervigram Image Using LSTM With Multistate CNN Features.” IEEE Journal of Biomedical and Health Informatics 24 (2020): 844-854.
 
-5. "Cai, Qiong; Wang, Hao; Li, Zhenmin; Liu, Xiao; ",A Survey on Multimodal Data-Driven Smart Healthcare Systems: Approaches and Applications,IEEE Access,7,,133583-133599,2019,IEEE
+5. Qiong Cai, Hao Wang, Zhenmin Li and Xinyu Liu. “A Survey on Multimodal Data-Driven Smart Healthcare Systems: Approaches and Applications.” IEEE Access 7 (2019): 133583-133599.
 
 ### Reviewer for
 
