@@ -2,6 +2,7 @@
 
 ## News
 
+- `2020/10/22` Nominated for National Scholarship.
 - `2020/07/17` One paper accepted by ACM TKDD.
 - `2019/05/03` Received funding from the National Scholarship Council.
 
