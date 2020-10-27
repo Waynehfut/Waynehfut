@@ -8,7 +8,7 @@
 
 ## Bio
 
-- 2019.08-2020.09: Visiting Scholar at Computer Science Department, University of Pittsburhg;
+- 2019.08-2020.09: Visiting Scholar at Computer Science Department, University of Pittsburgh;
 - 2016.09-2021.06: Ph.D. student at School of Management, Hefei University of Technology;
 - 2012.09-2016.06: Undergraduate student at School of Software, Hefei University of Technology;
 
