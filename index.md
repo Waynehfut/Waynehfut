@@ -38,7 +38,7 @@ Todo
 
 - ACM Transactions on Knowledge Discovery from Data.
 - International Journal of Production Research.
-- Physica A: Statistical Mechanics and its Applications.
+- Expert Systems With Applications
 
 ## Patent
 
