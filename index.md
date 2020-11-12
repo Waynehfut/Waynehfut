@@ -11,19 +11,14 @@
 - 2016.09-2021.06: Ph.D. student at School of Management, Hefei University of Technology;
 - 2012.09-2016.06: Undergraduate student at School of Software, Hefei University of Technology;
 
-## Repo
-
-Todo
-
 ## Research Topic
 
 - Medical Imaging
 - Surgical data science
-- Cloud service recommendation:
 
 ## Paper
 
-1. Hao Wang*, Shuai Ding*, Yeqing Li, Xiaojian Li, Youtao Zhang, "Hierarchical Physician Recommendation via Diversity-enhanced Matrix Factorization", ACM Transactions on Knowledge Discovery from Data, Accepted. (\*: The first two authors contributed equally to this paper)
+1. Hao Wang\*, Shuai Ding\*, Yeqing Li, Xiaojian Li, Youtao Zhang, "Hierarchical Physician Recommendation via Diversity-enhanced Matrix Factorization", ACM Transactions on Knowledge Discovery from Data, Accepted. (\*: The first two authors contributed equally to this paper)
 
 2. Hao Wang, Shuai Ding, Desheng Wu, Youtao Zhang and Shanlin Yang. “Smart connected electronic gastroscope system for gastric cancer screening using multi-column convolutional neural networks.” International Journal of Production Research 57 (2019): 6795 - 6806.
 
