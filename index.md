@@ -2,12 +2,13 @@
 
 ## News
 
+- `2020/10/22` Awarded National Scholarship.
 - `2020/07/17` One paper accepted by ACM TKDD.
 - `2019/05/03` Received funding from the National Scholarship Council.
 
 ## Bio
 
-- 2019.08-2020.09: Visiting Scholar at Computer Science Department, University of Pittsburhg;
+- 2019.08-2020.09: Visiting Scholar at Computer Science Department, University of Pittsburgh;
 - 2016.09-2021.06: Ph.D. student at School of Management, Hefei University of Technology;
 - 2012.09-2016.06: Undergraduate student at School of Software, Hefei University of Technology;
 
@@ -32,7 +33,7 @@
 
 - ACM Transactions on Knowledge Discovery from Data.
 - International Journal of Production Research.
-- Physica A: Statistical Mechanics and its Applications.
+- Expert Systems With Applications
 
 ## Patent
 
