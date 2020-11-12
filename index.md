@@ -19,7 +19,7 @@
 
 ## Paper
 
-1. Hao Wang\*, Shuai Ding\*, Yeqing Li, Xiaojian Li, Youtao Zhang, "Hierarchical Physician Recommendation via Diversity-enhanced Matrix Factorization", ACM Transactions on Knowledge Discovery from Data, Accepted. (\*: The first two authors contributed equally to this paper)
+1. Hao Wang\*, Shuai Ding\*, Yeqing Li, Xiaojian Li, Youtao Zhang, "Hierarchical Physician Recommendation via Diversity-enhanced Matrix Factorization", ACM Transactions on Knowledge Discovery from Data, Accepted. (\*: The first two authors contributed equally to this paper) [[code]](https://github.com/Waynehfut/MatrixFactorization)
 
 2. Hao Wang, Shuai Ding, Desheng Wu, Youtao Zhang and Shanlin Yang. “Smart connected electronic gastroscope system for gastric cancer screening using multi-column convolutional neural networks.” International Journal of Production Research 57 (2019): 6795 - 6806.
 
