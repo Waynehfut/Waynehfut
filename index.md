@@ -27,8 +27,6 @@
 
 4. Zijie Yue, Shuai Ding, Weidong Zhao, Hao Wang, Jie Ma, Youtao Zhang and Yanchun Zhang. “Automatic CIN Grades Prediction of Sequential Cervigram Image Using LSTM With Multistate CNN Features.” IEEE Journal of Biomedical and Health Informatics 24 (2020): 844-854.
 
-5. Qiong Cai, Hao Wang, Zhenmin Li and Xinyu Liu. “A Survey on Multimodal Data-Driven Smart Healthcare Systems: Approaches and Applications.” IEEE Access 7 (2019): 133583-133599.
-
 ## Reviewer for
 
 - ACM Transactions on Knowledge Discovery from Data.
