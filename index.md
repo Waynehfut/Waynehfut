@@ -20,7 +20,8 @@
 
 ## Paper
 
-1. Hao Wang, Shuai Ding, Shanlin Yang, Chenguang Liu, Shui Yu, Xi Zheng. Guided activity prediction for minimally invasive surgery safety improvement in the internet of medical things. IEEE Internet of Things Journal, Forthcoming.
+
+1. Hao Wang, Shuai Ding, Shanlin Yang, Chenguang Liu, Shui Yu, Xi Zheng. Guided activity prediction for minimally invasive surgery safety improvement in the internet of medical things. IEEE Internet of Things Journal, Forthcoming. [[code]](https://github.com/Waynehfut/GuideNet)
 
 2. Hao Wang\*, Shuai Ding\*, Yeqing Li, Xiaojian Li, and Youtao Zhang. Hierarchical Physician Recommendation via Diversity-enhanced Matrix Factorization. ACM Transactions on Knowledge Discovery from Data  15 (2020): 1-17. (\*: The first two authors contributed equally to this paper) [[code]](https://github.com/Waynehfut/MatrixFactorization)
 
