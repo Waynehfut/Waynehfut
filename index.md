@@ -16,22 +16,22 @@
 ## Research Topic
 
 - Medical Imaging
-- Surgical data science
+- Surgical Data Science
 
 ## Paper
 
 
-1. Hao Wang, Shuai Ding, Shanlin Yang, Chenguang Liu, Shui Yu, Xi Zheng. Guided activity prediction for minimally invasive surgery safety improvement in the internet of medical things. IEEE Internet of Things Journal, 2021, DOI:10.1109/JIOT.2021.3108457
+1. Hao Wang, Shuai Ding, Shanlin Yang, Chenguang Liu, Shui Yu, Xi Zheng. Guided activity prediction for minimally invasive surgery safety improvement in the internet of medical things. IEEE Internet of Things Journal. 2021. DOI:10.1109/JIOT.2021.3108457
 
-2. Hao Wang\#, Shuai Ding\#, Yeqing Li, Xiaojian Li, and Youtao Zhang. Hierarchical Physician Recommendation via Diversity-enhanced Matrix Factorization. ACM Transactions on Knowledge Discovery from Data  15 (2020): 1-17. (\*: The first two authors contributed equally to this paper)
+2. Hao Wang\#, Shuai Ding\#, Yeqing Li, Xiaojian Li, and Youtao Zhang. Hierarchical Physician Recommendation via Diversity-enhanced Matrix Factorization. ACM Transactions on Knowledge Discovery from Data. 2020(15): 1-17. (\*: The first two authors contributed equally to this paper)
 
-3. Hao Wang, Shuai Ding, Desheng Wu, Youtao Zhang and Shanlin Yang. Smart connected electronic gastroscope system for gastric cancer screening using multi-column convolutional neural networks. International Journal of Production Research 57 (2019): 6795 - 6806.
+3. Hao Wang, Shuai Ding, Desheng Wu, Youtao Zhang and Shanlin Yang. Smart connected electronic gastroscope system for gastric cancer screening using multi-column convolutional neural networks. International Journal of Production Research. 2019(57): 6795 - 6806.
 
-4. Tianwei Zhou, Shuai Ding, Wenjuan Fan and Hao Wang. An improved public goods game model with reputation effect on the spatial lattices. Chaos Solitons & Fractals 93 (2016): 130-135.
+4. Tianwei Zhou, Shuai Ding, Wenjuan Fan and Hao Wang. An improved public goods game model with reputation effect on the spatial lattices. Chaos Solitons & Fractals. 2016(93): 130-135.
 
-5. Zijie Yue, Shuai Ding, Weidong Zhao, Hao Wang, Jie Ma, Youtao Zhang and Yanchun Zhang. Automatic CIN Grades Prediction of Sequential Cervigram Image Using LSTM With Multistate CNN Features. IEEE Journal of Biomedical and Health Informatics 24 (2020): 844-854.
+5. Zijie Yue, Shuai Ding, Weidong Zhao, Hao Wang, Jie Ma, Youtao Zhang and Yanchun Zhang. Automatic CIN Grades Prediction of Sequential Cervigram Image Using LSTM With Multistate CNN Features. IEEE Journal of Biomedical and Health Informatics. 2020(24): 844-854.
 
-6. Qiong Cai, Hao Wang, Zhenmin Li and Xinyu Liu. A Survey on Multimodal Data-Driven Smart Healthcare Systems: Approaches and Applications. IEEE Access 7 (2019): 133583-133599.
+6. Qiong Cai, Hao Wang, Zhenmin Li and Xinyu Liu. A Survey on Multimodal Data-Driven Smart Healthcare Systems: Approaches and Applications. IEEE Access. 2019(7): 133583-133599.
 
 ## Reviewer for
 
@@ -41,7 +41,7 @@
 
 ## Patent
 
-1. "Shanlin, YANG; Ding, Shuai; Wenjuan, FAN; Wang, Hao; Jinxin, PAN; Shikang, HU; Huang, Hui; ",Task scheduling system and method suitable for mobile health,2018,"US Patent App. 15/809,993"
+1. Shanlin Yang, Shuai Ding, Wenjuan Fan, Hao Wang, et al. Task scheduling system with a work breakdown structure and method suitable for mobile health. 2018. US10409639B2.
 
 ## Project
 
