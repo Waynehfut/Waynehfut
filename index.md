@@ -20,7 +20,6 @@
 
 ## Selected Paper
 
-
 1. Hao Wang, Shuai Ding, Shanlin Yang, Chenguang Liu, Shui Yu, Xi Zheng. [Guided activity prediction for minimally invasive surgery safety improvement in the internet of medical things](https://ieeexplore.ieee.org/document/9524809/). IEEE Internet of Things Journal. 2021. DOI:10.1109/JIOT.2021.3108457
 
 2. Hao Wang\#, Shuai Ding\#, Yeqing Li, Xiaojian Li, and Youtao Zhang. [Hierarchical Physician Recommendation via Diversity-enhanced Matrix Factorization](https://dl.acm.org/doi/10.1145/3418227). ACM Transactions on Knowledge Discovery from Data. 2020(15): 1-17. (#: The first two authors contributed equally to this paper)
@@ -30,7 +29,6 @@
 4. Tianwei Zhou, Shuai Ding, Wenjuan Fan and Hao Wang. [An improved public goods game model with reputation effect on the spatial lattices.](https://www.sciencedirect.com/science/article/abs/pii/S0960077916302934) Chaos Solitons & Fractals. 2016(93): 130-135.
 
 5. Zijie Yue, Shuai Ding, Weidong Zhao, Hao Wang, Jie Ma, Youtao Zhang and Yanchun Zhang. [Automatic CIN Grades Prediction of Sequential Cervigram Image Using LSTM With Multistate CNN Features](https://ieeexplore.ieee.org/document/8736302). IEEE Journal of Biomedical and Health Informatics. 2020(24): 844-854.
-
 
 ## Reviewer for
 
