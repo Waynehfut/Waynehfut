@@ -18,7 +18,7 @@
 - Medical Imaging
 - Surgical Data Science
 
-## Paper
+## Selected Paper
 
 
 1. Hao Wang, Shuai Ding, Shanlin Yang, Chenguang Liu, Shui Yu, Xi Zheng. [Guided activity prediction for minimally invasive surgery safety improvement in the internet of medical things](https://ieeexplore.ieee.org/document/9524809/). IEEE Internet of Things Journal. 2021. DOI:10.1109/JIOT.2021.3108457
