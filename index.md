@@ -56,4 +56,4 @@
 ## Award
 
 - National Scholarship for Postgraduate (2020);
-- 3rd Place in [CholecTriplet 2021: Surgical Action Triplet Recognition](https://cholectriplet2021.grand-challenge.org/) - A Sub Chanllenge of the 24th International Conference on Medical Image Computing & Computer Assisted Intervention (MICCAI) with [Team:HFUT-MedIA (Yuxuan Yang, Hao Wang, Yuanbo Zhu, and Prof. Shuai Ding)](https://cholectriplet2021.grand-challenge.org/results/).
+- 3rd Place in [CholecTriplet 2021: Surgical Action Triplet Recognition](https://cholectriplet2021.grand-challenge.org/) - A Sub Challenge of the 24th International Conference on Medical Image Computing & Computer Assisted Intervention (MICCAI) with [Team:HFUT-MedIA (Yuxuan Yang, Hao Wang, Yuanbo Zhu, and Prof. Shuai Ding)](https://cholectriplet2021.grand-challenge.org/results/).
