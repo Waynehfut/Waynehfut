@@ -10,9 +10,10 @@
 
 ## Bio
 
-- 2019.08-2020.09: Visiting Scholar at Computer Science Department, University of Pittsburgh;
-- 2016.09-2021.12: Ph.D. student at School of Management, Hefei University of Technology;
-- 2012.09-2016.06: Undergraduate student at School of Software, Hefei University of Technology;
+- 2021.12-, Lecturer, School of Management, Hefei University of Technology;
+- 2019.08-2020.09, Visiting Scholar, Computer Science Department, University of Pittsburgh;
+- 2016.09-2021.12, Ph.D. student, School of Management, Hefei University of Technology;
+- 2012.09-2016.06, Undergraduate student, School of Software, Hefei University of Technology;
 
 ## Research Topic
 
