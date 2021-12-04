@@ -20,7 +20,7 @@
 - Medical Imaging
 - Surgical Data Science
 
-## Paper
+## Selected Paper
 
 1. Hao Wang, Shuai Ding, Shanlin Yang, Chenguang Liu, Shui Yu, Xi Zheng. [Guided activity prediction for minimally invasive surgery safety improvement in the internet of medical things](https://ieeexplore.ieee.org/document/9524809/). IEEE Internet of Things Journal. 2021. DOI:10.1109/JIOT.2021.3108457
 
@@ -58,4 +58,4 @@
 ## Award
 
 - National Scholarship for Postgraduate (2020);
-- 3rd Place in [CholecTriplet 2021: Surgical Action Triplet Recognition](https://cholectriplet2021.grand-challenge.org/) - A Sub Chanllenge of the 24th International Conference on Medical Image Computing & Computer Assisted Intervention (MICCAI) with [Team:HFUT-MedIA (Yuxuan Yang, Hao Wang, Yuanbo Zhu, and Prof. Shuai Ding)](https://cholectriplet2021.grand-challenge.org/results/).
+- 3rd Place in [CholecTriplet 2021: Surgical Action Triplet Recognition](https://cholectriplet2021.grand-challenge.org/) - A Sub Challenge of the 24th International Conference on Medical Image Computing & Computer Assisted Intervention (MICCAI) with [Team:HFUT-MedIA (Yuxuan Yang, Hao Wang, Yuanbo Zhu, and Prof. Shuai Ding)](https://cholectriplet2021.grand-challenge.org/results/).
