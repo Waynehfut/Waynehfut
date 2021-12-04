@@ -21,29 +21,17 @@
             <img src="{{site.logo | relative_url}}" alt="Logo" /> {% endif %}
 
             <p>{{ site.description | default: site.github.project_tagline }}</p>
-            <p>
-                Greetings! I am a lecturer from School of Management, Hefei University of Technology. Before that, I received my a Ph.D. degree in Management Science and Engineering from the Hefei University of Technology under the supervision of Prof. Shanlin Yang in
-                2021. Previously, I worked as a visiting scholar (2019-2020) at the University of Pittsburgh under the supervision of Prof. Youtao Zhang. I received my B.S. degree in Software Engineering in 2016 from the Hefei University of Technology.
-            </p>
-            <p>
-                My research focuses on medical imaging and surgical data science.
-            </p>
-            <p>Tel: +86 183-2667-2770
-                <br> Mail: waynehfut@outlook.com
-                <br> Blog (In Chinese):<a href="https://blog.waynehfut.com"> 低调的披风 </a>
-                <br> Meet: <a href="https://meet.waynehfut.com"> Group Meet </a>
-            </p>
 
-            <!-- {% if site.github.is_project_page %}
+            {% if site.github.is_project_page %}
             <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
             {% endif %} {% if site.github.is_user_page %}
             <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-            {% endif %} {% if site.show_downloads %} -->
-            <!-- <ul class="downloads">
+            {% endif %} {% if site.show_downloads %}
+            <ul class="downloads">
                 <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
                 <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
                 <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
-            </ul> -->
+            </ul>
             {% endif %}
         </header>
         <section>
@@ -52,15 +40,13 @@
 
         </section>
         <footer>
-            <!-- {% if site.github.is_project_page %}
+            {% if site.github.is_project_page %}
             <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
             {% endif %}
-            <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p> -->
-            <p><small>This is Hao Wang's homepage. Please feel free to contact me via the mail for any question.</small></p>
+            <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
         </footer>
     </div>
     <script src="{{ " /assets/js/scale.fix.js " | relative_url }}"></script>
-
 </body>
 
 </html>
