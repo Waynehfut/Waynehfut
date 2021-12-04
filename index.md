@@ -2,7 +2,7 @@
 
 ## News
 
-- `2021/11/11` I will join the School of Management of Hefei University of Technology as a lecturer.
+- `2021/12/04` I will join the School of Management of Hefei University of Technology as a lecturer.
 - `2021/08/20` One paper accepted by IEEE IOT Journal.
 - `2020/10/22` Awarded National Scholarship.
 - `2020/07/17` One paper accepted by ACM TKDD.
