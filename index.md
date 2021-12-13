@@ -28,9 +28,6 @@
 
 3. Hao Wang, Shuai Ding, Desheng Wu, Youtao Zhang and Shanlin Yang. [Smart connected electronic gastroscope system for gastric cancer screening using multi-column convolutional neural networks](https://www.tandfonline.com/doi/full/10.1080/00207543.2018.1464232). International Journal of Production Research. 2019(57): 6795 - 6806.
 
-4. Tianwei Zhou, Shuai Ding, Wenjuan Fan and Hao Wang. [An improved public goods game model with reputation effect on the spatial lattices.](https://www.sciencedirect.com/science/article/abs/pii/S0960077916302934) Chaos Solitons & Fractals. 2016(93): 130-135.
-
-5. Zijie Yue, Shuai Ding, Weidong Zhao, Hao Wang, Jie Ma, Youtao Zhang and Yanchun Zhang. [Automatic CIN Grades Prediction of Sequential Cervigram Image Using LSTM With Multistate CNN Features](https://ieeexplore.ieee.org/document/8736302). IEEE Journal of Biomedical and Health Informatics. 2020(24): 844-854.
 
 ## Reviewer for
 
