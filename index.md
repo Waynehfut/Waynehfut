@@ -21,15 +21,6 @@ Greetings! I am a lecturer from School of Management, Hefei University of Techno
 - Medical Imaging
 - Surgical Data Science
 
-## Bio
-
-| Time            | Role                  | Department                  | Affiliation                    |
-| :--------------- | :--------------------- | :-------------------------- | :------------------------------ |
-| 2021.12-        | Lecturer              | School of Management        | Hefei University of Technology |
-| 2019.08-2020.09 | Visiting Scholar      | Computer Science Department | University of Pittsburgh       |
-| 2016.09-2021.12 | Ph.D. student         | School of Management        | Hefei University of Technology |
-| 2012.09-2016.06 | Undergraduate student | School of Software          | Hefei University of Technology |
-
 ## Selected Publications
 
 1. Hao Wang, Shuai Ding, Shanlin Yang, Chenguang Liu, Shui Yu, Xi Zheng. [Guided activity prediction for minimally invasive surgery safety improvement in the internet of medical things](https://ieeexplore.ieee.org/document/9524809/). IEEE Internet of Things Journal. 2021. DOI:10.1109/JIOT.2021.3108457
@@ -58,8 +49,7 @@ Greetings! I am a lecturer from School of Management, Hefei University of Techno
 
 1. From January 2019 to now, National Natural Science Foundation of China, Research on the panoramic intelligent decision-making method based on multi-mode cross-border fusion in intelligent medical situation, 91846107
 2. From January 2016 to 2021, National Natural Science Foundation of China, Research on cloud service recommendation method based on dynamic trust modeling in social network environment, 71571058;
-3. From June 2016 to 2019, Anhui Provincial Science and Technology Major Project, intelligent minimally invasive diagnosis and treatment and training system based on hybrid cloud platform, 16030801121;
-4. From July 2017 to 2020, Anhui Provincial Science and Technology Major Project, research and integration demonstration of medical minimally invasive multidisciplinary service platform based on artificial intelligence, 17030801001;
+
 
 ## Award
 
