@@ -1,9 +1,29 @@
-theme: jekyll-theme-minimal
 title: Hao Wang
 description: Welcome to Hao Wang's Homepage
-# logo: /assets/img/me.jpg
-show_downloads: false
+url: "https://waynehfut.com"
 google_analytics: UA-173010224-1
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: ankitsultana/researcher@gem
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
+baseurl: "/"
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://github.com/waynehfut"
+footer_text: "This is Hao Wang's homepage. Please feel free to contact me via the mail for any question."
+
+sass:
+  style: compressed
+  sass_dir: _sass
+
+nav:
+  - name: "About"
+    link: "/"
+  - name: "Blog"
+    link: "https://blog.waynehfut.com"
+  - name: "Contact"
+    link: "contact"
