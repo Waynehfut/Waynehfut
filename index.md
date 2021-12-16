@@ -2,13 +2,7 @@
 layout: default
 ---
 
-# Hao Wang
-
-Lecturer
-
-School of Management
-
-Hefei University of Technology
+## Welcome to Hao Wang's Home page!
 
 <img class="profile-picture" src="https://avatars.githubusercontent.com/waynehfut">
 
