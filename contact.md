@@ -12,6 +12,8 @@ is_contact: true
 ## Mailing Address
 
 > No.193, Tunxi Road
+> 
+> Hefei University of Technology
 >
 > Hefei, Anhui
 >
