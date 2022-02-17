@@ -18,8 +18,8 @@ Greetings! I am a lecturer from School of Management, Hefei University of Techno
 
 ## Research Topic
 
-- Medical Imaging
-- Surgical Data Science
+- Medical Image Analysis
+- Healthcare Management
 
 ## Selected Publications
 
@@ -47,8 +47,9 @@ Greetings! I am a lecturer from School of Management, Hefei University of Techno
 
 - Participate
 
-1. From January 2019 to now, National Natural Science Foundation of China, Research on the panoramic intelligent decision-making method based on multi-mode cross-border fusion in intelligent medical situation, 91846107
-2. From January 2016 to 2021, National Natural Science Foundation of China, Research on cloud service recommendation method based on dynamic trust modeling in social network environment, 71571058;
+1. From January 2019 to now, National Natural Science Foundation of China, Research on the panoramic intelligent decision-making method based on multi-mode cross-border fusion in intelligent medical situation, 91846107;
+2. From January 2021 to now, National Natural Science Foundation of China, Research on dynamic active service mode based on deep aggregation of multimodal healthcare big data, 72071063;
+3. From January 2016 to 2021, National Natural Science Foundation of China, Research on cloud service recommendation method based on dynamic trust modeling in social network environment, 71571058.
 
 
 ## Award
