@@ -11,7 +11,6 @@ Greetings! I am a lecturer from School of Management, Hefei University of Techno
 ## News
 
 - 2021/12/04 I will join the School of Management of Hefei University of Technology as a lecturer.
-- 2021/08/20 One paper accepted by IEEE IOT Journal.
 - 2020/10/22 Awarded National Scholarship.
 - 2020/07/17 One paper accepted by ACM TKDD.
 - 2019/05/03 Received funding from the National Scholarship Council.
@@ -23,11 +22,9 @@ Greetings! I am a lecturer from School of Management, Hefei University of Techno
 
 ## Selected Publications
 
-[1] Hao Wang, Shuai Ding, Shanlin Yang, Chenguang Liu, Shui Yu, Xi Zheng. [Guided activity prediction for minimally invasive surgery safety improvement in the internet of medical things](https://ieeexplore.ieee.org/document/9524809/). IEEE Internet of Things Journal. 2021. DOI:10.1109/JIOT.2021.3108457
+[1] Hao Wang\#, Shuai Ding\#, Yeqing Li, Xiaojian Li, and Youtao Zhang. [Hierarchical Physician Recommendation via Diversity-enhanced Matrix Factorization](https://dl.acm.org/doi/10.1145/3418227). ACM Transactions on Knowledge Discovery from Data. 2020(15): 1-17. (#: The first two authors contributed equally to this paper)
 
-[2] Hao Wang\#, Shuai Ding\#, Yeqing Li, Xiaojian Li, and Youtao Zhang. [Hierarchical Physician Recommendation via Diversity-enhanced Matrix Factorization](https://dl.acm.org/doi/10.1145/3418227). ACM Transactions on Knowledge Discovery from Data. 2020(15): 1-17. (#: The first two authors contributed equally to this paper)
-
-[3] Hao Wang, Shuai Ding, Desheng Wu, Youtao Zhang and Shanlin Yang. [Smart connected electronic gastroscope system for gastric cancer screening using multi-column convolutional neural networks](https://www.tandfonline.com/doi/full/10.1080/00207543.2018.1464232). International Journal of Production Research. 2019(57): 6795 - 6806.
+[2] Hao Wang, Shuai Ding, Desheng Wu, Youtao Zhang and Shanlin Yang. [Smart connected electronic gastroscope system for gastric cancer screening using multi-column convolutional neural networks](https://www.tandfonline.com/doi/full/10.1080/00207543.2018.1464232). International Journal of Production Research. 2019(57): 6795 - 6806.
 
 ## Reviewer for
 
