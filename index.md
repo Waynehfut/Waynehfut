@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Welcome to Hao Wang's Home page!
+## Welcome to Hao Wang's Home page
 
 <img class="profile-picture" src="https://avatars.githubusercontent.com/waynehfut">
 
@@ -43,13 +43,13 @@ Greetings! I am a lecturer from School of Management, Hefei University of Techno
 
 - PI
 
-1. From September 2019 to September 2020, China Scholarship Council, Integrated Design for Surgical Behavior Intelligent Decision-making Based on Minimally Invasive Surgery Imaging Equipment, 201906690004;
+1. From April 2021 to April 2024, Department of Science and Technology of Anhui Province, Intelligent Wireless Endoscope, 202103a07020012;
+2. From September 2019 to September 2020, China Scholarship Council, Integrated Design for Surgical Behavior Intelligent Decision-making Based on Minimally Invasive Surgery Imaging Equipment, 201906690004;
 
 - Participate
 
 1. From January 2019 to now, National Natural Science Foundation of China, Research on the panoramic intelligent decision-making method based on multi-mode cross-border fusion in intelligent medical situation, 91846107
 2. From January 2016 to 2021, National Natural Science Foundation of China, Research on cloud service recommendation method based on dynamic trust modeling in social network environment, 71571058;
-
 
 ## Award
 
