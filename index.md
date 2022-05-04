@@ -10,6 +10,7 @@ Greetings! I am a lecturer from School of Management, Hefei University of Techno
 
 ## News
 
+- 2022/04/30 Received the funding from the Department of Science and Technology of Anhui Province.
 - 2021/12/04 I will join the School of Management of Hefei University of Technology as a lecturer.
 - 2020/10/22 Awarded National Scholarship.
 - 2020/07/17 One paper accepted by ACM TKDD.
