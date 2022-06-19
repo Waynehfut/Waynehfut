@@ -41,8 +41,9 @@ Greetings! I am a lecturer from School of Management, Hefei University of Techno
 
 - PI
 
-1. From April 2021 to April 2024, Department of Science and Technology of Anhui Province, Intelligent Wireless Endoscope, 202103a07020012;
-2. From September 2019 to September 2020, China Scholarship Council, Integrated Design for Surgical Behavior Intelligent Decision-making Based on Minimally Invasive Surgery Imaging Equipment, 201906690004;
+1. From May 2022 to April 2024, Hefei University of Technology, Research on assistant decision-making method of minimally invasive surgery based on multimodal behavior information fusion, JZ2022HGQA0140
+2. From April 2021 to April 2024, Department of Science and Technology of Anhui Province, Intelligent Wireless Endoscope, 202103a07020012;
+3. From September 2019 to September 2020, China Scholarship Council, Integrated Design for Surgical Behavior Intelligent Decision-making Based on Minimally Invasive Surgery Imaging Equipment, 201906690004;
 
 - Participate
 
