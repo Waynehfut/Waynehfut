@@ -21,6 +21,10 @@ Greetings! I am a lecturer from School of Management, Hefei University of Techno
 - Medical Image Analysis
 - Healthcare Management
 
+## Teaching
+
+- 1119850X Data Structure
+
 ## Selected Publications
 
 [1] Hao Wang\#, Shuai Ding\#, Yeqing Li, Xiaojian Li, and Youtao Zhang. [Hierarchical Physician Recommendation via Diversity-enhanced Matrix Factorization](https://dl.acm.org/doi/10.1145/3418227). ACM Transactions on Knowledge Discovery from Data. 2020(15): 1-17. (#: The first two authors contributed equally to this paper)
@@ -55,3 +59,8 @@ Greetings! I am a lecturer from School of Management, Hefei University of Techno
 
 - National Scholarship for Postgraduate (2020);
 - 3rd Place in [CholecTriplet 2021: Surgical Action Triplet Recognition](https://cholectriplet2021.grand-challenge.org/) - A Sub Challenge of the 24th International Conference on Medical Image Computing & Computer Assisted Intervention (MICCAI) with [Team:HFUT-MedIA (Yuxuan Yang, Hao Wang, Yuanbo Zhu, and Prof. Shuai Ding)](https://cholectriplet2021.grand-challenge.org/results/).
+
+
+## Talks
+
+- 2022/08/14 A invited talk by Renmin University of China about Deep learning in medical image analysis.
