@@ -9,7 +9,7 @@ layout: default
 Greetings! I am a lecturer from School of Management, Hefei University of Technology. Before that, I received my a Ph.D. degree in Management Science and Engineering from the Hefei University of Technology under the supervision of Prof. Shanlin Yang in 2021. Previously, I worked as a visiting scholar (2019-2020) at the University of Pittsburgh under the supervision of Prof. Youtao Zhang and received my B.S. degree in Software Engineering from the Hefei University of Technology in 2016.
 
 ## News
-
+- 2022/09/08 Received the funding from the  National Natural Science Foundation of China.
 - 2022/04/30 Received the funding from the Department of Science and Technology of Anhui Province.
 - 2021/12/04 I will join the School of Management of Hefei University of Technology as a lecturer.
 - 2020/10/22 Awarded National Scholarship.
@@ -45,9 +45,10 @@ Greetings! I am a lecturer from School of Management, Hefei University of Techno
 
 - PI
 
-1. From May 2022 to April 2024, Hefei University of Technology, Research on assistant decision-making method of minimally invasive surgery based on multimodal behavior information fusion, JZ2022HGQA0140;
-2. From April 2021 to April 2024, Department of Science and Technology of Anhui Province, Intelligent Wireless Endoscope, 202103a07020012;
-3. From September 2019 to September 2020, China Scholarship Council, Integrated Design for Surgical Behavior Intelligent Decision-making Based on Minimally Invasive Surgery Imaging Equipment, 201906690004;
+1. From Jan 2023 to Dec 2025, National Natural Science Foundation of China, Research on Data Driven Intelligent Quality Control Method for Minimally Invasive Surgery, 72201085;
+2. From May 2022 to April 2024, Hefei University of Technology, Research on assistant decision-making method of minimally invasive surgery based on multimodal behavior information fusion, JZ2022HGQA0140;
+3. From April 2021 to April 2024, Department of Science and Technology of Anhui Province, Intelligent Wireless Endoscope, 202103a07020012;
+4. From September 2019 to September 2020, China Scholarship Council, Integrated Design for Surgical Behavior Intelligent Decision-making Based on Minimally Invasive Surgery Imaging Equipment, 201906690004;
 
 - Participate
 
