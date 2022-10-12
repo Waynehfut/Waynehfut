@@ -9,6 +9,10 @@ is_contact: true
 
 ---
 
+## Office
+
+> 1404@MEMS Building 
+
 ## Mailing Address
 
 > No.193, Tunxi Road
@@ -24,5 +28,5 @@ is_contact: true
 ## Social
 
 1. [Blog (In Chinese)](https://blog.waynehfut.com)
-2. [Meet](https://meet.waynehfut.com)
+2. [Group Meet](https://meet.waynehfut.com)
 
