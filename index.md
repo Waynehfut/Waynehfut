@@ -26,12 +26,10 @@ Greetings! I am a lecturer from School of Management, Hefei University of Techno
 - 1119850X Data Structure
 
 ## Selected Publications
-[1] Hao Wang, Shuai Ding, Shanlin Yang, Chenguang Liu, Shui Yu, Xi Zheng. [Guided activity prediction for minimally invasive surgery safety improvement in the internet of medical things](https://ieeexplore.ieee.org/document/9524809/). IEEE Internet of Things Journal, 2022(9)6: 4758-4768.
 
+[1] Hao Wang\#, Shuai Ding\#, Yeqing Li, Xiaojian Li, and Youtao Zhang. [Hierarchical Physician Recommendation via Diversity-enhanced Matrix Factorization](https://dl.acm.org/doi/10.1145/3418227). ACM Transactions on Knowledge Discovery from Data. 2020(15): 1-17. (#: The first two authors contributed equally to this paper)
 
-[2] Hao Wang\#, Shuai Ding\#, Yeqing Li, Xiaojian Li, and Youtao Zhang. [Hierarchical Physician Recommendation via Diversity-enhanced Matrix Factorization](https://dl.acm.org/doi/10.1145/3418227). ACM Transactions on Knowledge Discovery from Data. 2020(15): 1-17. (#: The first two authors contributed equally to this paper)
-
-[3] Hao Wang, Shuai Ding, Desheng Wu, Youtao Zhang and Shanlin Yang. [Smart connected electronic gastroscope system for gastric cancer screening using multi-column convolutional neural networks](https://www.tandfonline.com/doi/full/10.1080/00207543.2018.1464232). International Journal of Production Research. 2019(57): 6795 - 6806.
+[2] Hao Wang, Shuai Ding, Desheng Wu, Youtao Zhang and Shanlin Yang. [Smart connected electronic gastroscope system for gastric cancer screening using multi-column convolutional neural networks](https://www.tandfonline.com/doi/full/10.1080/00207543.2018.1464232). International Journal of Production Research. 2019(57): 6795 - 6806.
 
 ## Reviewer for
 
