@@ -21,10 +21,4 @@ is_contact: true
 >
 > China
 
----
-
-## Social
-
-1. [Blog (In Chinese)](https://blog.waynehfut.com)
-2. [Group Meet](https://meet.waynehfut.com)
 
