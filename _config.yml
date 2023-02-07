@@ -23,7 +23,5 @@ sass:
 nav:
   - name: "About"
     link: "/"
-  - name: "Meet"
-    link: "https://meet.waynehfut.com"
   - name: "Contact"
     link: "contact"
