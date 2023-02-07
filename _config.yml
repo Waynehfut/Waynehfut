@@ -23,7 +23,7 @@ sass:
 nav:
   - name: "About"
     link: "/"
-  - name: "Blog"
-    link: "https://blog.waynehfut.com"
+  - name: "Meet"
+    link: "https://meet.waynehfut.com"
   - name: "Contact"
     link: "contact"

@@ -5,8 +5,6 @@ is_contact: true
 
 * Email: [haowang@hfut.edu.cn](mailto:haowang@hfut.edu.cn)
 
-* Phone: [+86 183-2667-2770](tel:+86 183-2667-2770)
-
 ---
 
 ## Mailing Address
