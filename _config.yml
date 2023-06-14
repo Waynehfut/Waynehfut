@@ -23,7 +23,7 @@ sass:
 nav:
   - name: "About"
     link: "/"
-  - name: "中文"
-    linke: "cn"
+  - name: "CN"
+    link: "cn"
   - name: "Contact"
     link: "contact"
