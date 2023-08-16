@@ -23,7 +23,9 @@ sass:
 nav:
   - name: "About"
     link: "/"
-  - name: "CN"
-    link: "cn"
+  # - name: "EN"
+  #   link: "/"
+  # - name: "CN"
+  #   link: "cn"
   - name: "Contact"
     link: "contact"
