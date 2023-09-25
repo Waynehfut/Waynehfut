@@ -9,6 +9,7 @@ layout: default
 Greetings! I am a lecturer from School of Management, Hefei University of Technology. Before that, I received my a Ph.D. degree in Management Science and Engineering from the Hefei University of Technology under the supervision of Prof. Shanlin Yang in 2021. Previously, I worked as a visiting scholar (2019-2020) at the University of Pittsburgh under the supervision of Prof. Youtao Zhang and received my B.S. degree in Software Engineering from the Hefei University of Technology in 2016.
 
 ## News
+- 2023/09/25 One paper accepted by IEEE TMI.
 - 2022/09/08 Received the funding from the  National Natural Science Foundation of China.
 - 2022/04/30 Received the funding from the Department of Science and Technology of Anhui Province.
 - 2021/12/04 I will join the School of Management of Hefei University of Technology as a lecturer.
