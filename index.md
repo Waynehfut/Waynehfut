@@ -25,6 +25,7 @@ Greetings! I am a lecturer from School of Management, Hefei University of Techno
 ## Teaching
 
 - 1119850X Data Structure
+- 1110262B Data Structure and Algorithm
 
 ## Reviewer for
 
