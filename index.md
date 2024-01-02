@@ -61,3 +61,4 @@ Greetings! I am a lecturer from School of Management, Hefei University of Techno
 ## Talks
 
 - 2022/08/14 A invited talk by Renmin University of China about Deep learning in medical image analysis.
+- 2023/12/08 A invited talk by Chinese Society of Biomedical Engineering about smart surgical decision
